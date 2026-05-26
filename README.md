@@ -12,7 +12,7 @@ import random
 from questions import questions
 
 TOKEN = 'ضع_توكن_البوت_هنا'  # ⚠️ سنستبدل هذا بمتغير بيئة لاحقاً
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(8813412939:AAFwPMfT9w1Yia09GvwE0-fgcS23JWNysvU)
 
 user_scores = {}
 user_current_question = {}
